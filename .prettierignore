@@ -1,0 +1,15 @@
+# Carpeta de datos PostgreSql
+postgres_data
+
+#archivo Docker
+docker-compose.yml
+
+#dependencias de Node
+node_modules
+
+#Carpetas de compilacion
+dist
+build
+
+#Carpetas de migraciones
+migrations
